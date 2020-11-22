@@ -11,21 +11,21 @@ Used library version:
 # nltl: 3.4.5
 # sklearn: 0.21.3
 
-## Chapter and description: 
+# Chapter and description: 
 
-# IPython: Beyond Normal Python: 
+### IPython: Beyond Normal Python: 
 Explain in details all about basic python functionallity and it's uses. 
 
-# Introduction to NumPy:
+### Introduction to NumPy:
 This all about numpy and it's basic to advance all functionality and its uses. 
 
-# Data Manipulation with Pandas:
+### Data Manipulation with Pandas:
 Here broadly discussed the pandas dataframe and it's used and mostly cover all type of pandas dataframe computations. 
 
-# Visualization with Matplotlib:
+### Visualization with Matplotlib:
 Matplotlib visualization, This is very amazing when you will work on data and visualize it on your own way. 
 
-# Machine Learning: 
+### Machine Learning: 
 *** This chapter is topmost important to me I and I hope you will give the same importance to this chapter. This chapter mostly cover medium and high level, If you cover all the above chapter properly you will find great insight in this chapter with practical face detection pipeline real project. 
 
 
