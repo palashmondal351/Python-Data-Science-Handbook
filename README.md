@@ -5,11 +5,11 @@ In this reprository I broadly explored all the code which is covered in "Python 
 
 *** I fixed most of the library issue which are not supported / depricated in the latest version. 
 Used library version:
-# numpy: 1.16.5
-# pandas: 0.24.2
-# matplotlib: 3.1.1
-# nltl: 3.4.5
-# sklearn: 0.21.3
+## numpy: 1.16.5
+## pandas: 0.24.2
+## matplotlib: 3.1.1
+## nltl: 3.4.5
+## sklearn: 0.21.3
 
 # Chapter and description: 
 
